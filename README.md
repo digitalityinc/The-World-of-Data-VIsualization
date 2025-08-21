@@ -1,67 +1,43 @@
 # The World of Data Visualization
 
-Welcome to **The World of Data Visualization**!  
-This repository is a collection of tutorials, hands-on tasks, and curated readings to help students and researchers explore the power of data visualization.
+Hi! 👋 I’m **Jasmine Zhang**.  
+
+Since 9th grade, I’ve been doing research at the **Perelman School of Medicine at the University of Pennsylvania**, where I’ve helped scientists make sense of data through visualization. Along the way, I’ve learned how powerful charts, plots, and visuals can be for turning raw numbers into real insights.  
+
+I also run the **Digital Health Club at Carmel High**, where I’ve hosted meetups to share ideas and projects in data visualization.  
 
 ---
 
-## About Me
-My name is **Jasmine Zhang**. Since 9th grade, I have been conducting research at the **Perelman School of Medicine at the University of Pennsylvania**.  
-
-The lab I work with focuses on:
-- Machine Learning  
-- Medical Image Computing  
-- Biomedical and Health Informatics  
-- Trustworthy AI  
-- NLP / LLMs  
-- Network Science  
-- Imaging Genomics  
-- Multi-omics and Systems Biology  
-- Alzheimer’s Disease Research  
-- Health Disparities  
-- Big Data Science in Biomedicine  
-
-Through this experience, I’ve had the opportunity to help visualize data from multiple projects — turning complex datasets into clear and meaningful visuals that help scientists make sense of their research.  
-
-Outside the lab, I also run the **Digital Health Club at Carmel High**, where I organize meetups on data visualization and related topics.
+## Why This Repository?
+I wanted to create a place where other students (and anyone curious!) can **learn data visualization step by step**. This repo is like a mini-course that combines what I’ve learned in research and in the classroom.  
 
 ---
 
-## Purpose of This Repository
-I created this repository to **share what I’ve learned** with others who are interested in data visualization.  
-It is designed to be a **learning journey**, combining theory, practice, and useful resources so that students (and anyone curious) can gain practical skills in data visualization.
-
----
-
-## Repository Structure
-This repository is organized into **9 modules**. Each module contains:
-- **Tutorial slides** — to explain core concepts.  
-- **Jupyter notebooks** — with hands-on tasks and coding exercises.  
-- **Curated readings** — articles and papers I’ve found helpful for deeper learning.  
+## What’s Inside?
+This repo has **9 modules**, and each one includes:
+- 📑 Tutorial slides (to explain the concepts)  
+- 💻 Jupyter notebooks (hands-on coding + practice tasks)  
+- 📚 Helpful readings (articles and papers I found useful)  
 
 ---
 
 ## How to Use
-1. Browse the modules in order (Module 1 → Module 9).  
-2. Open the tutorial slides for conceptual learning.  
-3. Work through the Jupyter notebooks to practice coding and visualization.  
-4. Check out the readings for additional context and inspiration.  
+1. Start with Module 1 and work your way through.  
+2. Check the slides to understand the ideas.  
+3. Try out the notebooks to practice coding and making visuals.  
+4. Explore the readings if you want to dive deeper.  
 
 ---
 
-## Goals
-- Make data visualization approachable for students and beginners.  
-- Show how visualization can turn raw data into insights.  
-- Inspire others to use data visualization in science, health, and beyond.  
+## My Goal
+I want this repo to be:
+- A **fun way to learn** data visualization  
+- A resource to **help beginners build confidence**  
+- An invitation for others to **explore, create, and share**  
 
 ---
 
-## Acknowledgements
-I am grateful to the **Perelman School of Medicine** at the University of Pennsylvania for the research opportunities that inspired this project, and to my mentors, peers, and collaborators who encouraged my exploration of data visualization.  
+## Let’s Learn Together 🎨📊
+I hope you enjoy this repository! Data visualization is not just about graphs — it’s about **telling stories with data**.  
 
----
-
-## Let’s Have Fun with Data!
-I hope you enjoy exploring this repository. Data visualization is both an art and a science — and with practice, anyone can master it.  
-
-✨ Let’s have fun with data visualization together!
+Let’s make it fun, creative, and useful 🚀.
