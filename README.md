@@ -1,10 +1,6 @@
 # The World of Data Visualization
 
-Hi! 👋 I’m **Jasmine Zhang**.  
-
 Since 9th grade, I’ve been doing research at the **Perelman School of Medicine at the University of Pennsylvania**, where I’ve helped scientists make sense of data through visualization. Along the way, I’ve learned how powerful charts, plots, and visuals can be for turning raw numbers into real insights.  
-
-I also run the **Digital Health Club at Carmel High**, where I’ve hosted meetups to share ideas and projects in data visualization.  
 
 ---
 
@@ -15,9 +11,9 @@ I wanted to create a place where other students (and anyone curious!) can **lear
 
 ## What’s Inside?
 This repo has **9 modules**, and each one includes:
-- 📑 Tutorial slides (to explain the concepts)  
-- 💻 Jupyter notebooks (hands-on coding + practice tasks)  
-- 📚 Helpful readings (articles and papers I found useful)  
+- Tutorial slides (to explain the concepts)  
+- Jupyter notebooks (hands-on coding + practice tasks)  
+- Helpful readings (articles and papers I found useful)  
 
 ---
 
@@ -36,8 +32,3 @@ I want this repo to be:
 - An invitation for others to **explore, create, and share**  
 
 ---
-
-## Let’s Learn Together 🎨📊
-I hope you enjoy this repository! Data visualization is not just about graphs — it’s about **telling stories with data**.  
-
-Let’s make it fun, creative, and useful 🚀.
