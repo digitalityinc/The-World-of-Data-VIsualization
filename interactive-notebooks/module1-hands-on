@@ -1,15 +1,6 @@
 {
  "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "<a href=\"http://www.louisville.edu\"><img src = \"https://scontent-ort2-2.xx.fbcdn.net/v/t1.6435-9/185393772_10157730198765899_6137133964003342304_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=6e5ad9&_nc_ohc=nhwGx_CPtF0AX-k_sR4&_nc_ht=scontent-ort2-2.xx&oh=00_AT9-NHyX-MdiUHq34g-aG-Cj16o8N4e1oJyIRb0ZiKdD2Q&oe=61F8FC7B\" width = 400> </a>\n",
-    "\n",
-    "<h1 align=center><font size = 5>CSE 551 Data Visualization</font></h1>\n",
-    "<h1 align=center><font size = 5> Handson 1 - Introduction to Python</font></h1>\n"
-   ]
-  },
+  
   {
    "cell_type": "markdown",
    "metadata": {},
