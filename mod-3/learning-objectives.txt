@@ -1,0 +1,4 @@
+By the end of this week, students should be able to:
+1. Key concepts of matplotlib’s design
+2. Understanding plt.subplots()
+3. Visualizing arrays with matplotlib
