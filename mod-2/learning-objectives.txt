@@ -1,1 +1,4 @@
+By the end of this week, students should be able to:
+1. Understand the concepts and implementations of data structures in Python
+2. Create plotting from Numpy array
 
