@@ -1,1 +1,19 @@
+ 📘 Module 2 – Introduction to Data Structures
 
+This module introduces **Python data structures** and how they can be combined with **NumPy arrays** for data visualization.
+
+ 🎯 Learning Objectives
+By the end of this module, you will be able to:
+- Understand the concepts and implementations of **data structures** in Python.  
+- Create plots from **NumPy arrays**:contentReference[oaicite:0]{index=0}.  
+
+
+ 📚 Topics Covered
+- Built-in Data Structures: lists, tuples, sets, dictionaries:contentReference[oaicite:1]{index=1}  
+- Arrays and Lists: creation, indexing, advantages & disadvantages:contentReference[oaicite:2]{index=2}  
+- Stacks (LIFO), Queues (FIFO with `deque`), Graphs, and Linked Lists:contentReference[oaicite:3]{index=3}  
+- Introduction to **NumPy arrays** and their advantages over Python lists:contentReference[oaicite:4]{index=4}  
+
+
+ 🚀 Next Step
+After this module, you’ll be ready to build more complex data visualizations with **Matplotlib**.
