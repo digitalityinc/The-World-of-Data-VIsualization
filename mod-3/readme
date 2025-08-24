@@ -1,7 +1,10 @@
 ✨ By the end of this week, you will be able to:
 
-Explain the main ideas behind Matplotlib’s design — understand how this library is set up to help us make plots.
+ 🖌️ **Explain the main ideas behind Matplotlib’s design  
+  Understand how this library is set up to help us make plots.  
 
-Use plt.subplots() — learn how to set up plotting areas where your graphs will live.
+ 📐 **Use `plt.subplots()`**  
+  Learn how to set up plotting areas where your graphs will live.  
 
-Visualize arrays with Matplotlib — turn data stored in arrays into clear and colorful charts.
+ 📊 **Visualize arrays with Matplotlib**  
+  Turn data stored in arrays into clear and colorful charts.  
