@@ -1,7 +1,8 @@
-🌟 This week, you will be able to:
+🌟 **This week, you will be able to:**
 
-📂 **Explore and use data structures in Python
+- 📂 **Explore and use data structures in Python**  
   Learn how to organize and work with information using lists, dictionaries, and other cool tools in Python.  
 
-📊 **Make your own plots with NumPy
+- 📊 **Make your own plots with NumPy**  
   Discover how to turn numbers into pictures (graphs and charts) by using NumPy arrays.  
+
