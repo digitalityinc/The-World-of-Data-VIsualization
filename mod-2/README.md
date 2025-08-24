@@ -1,7 +1,7 @@
-✨ By the end of this week, you will be able to:
+✨ **By the end of this week, you will be able to:**
 
-📂 Understand and use data structures in Python 
+- 📂 **Understand and use data structures in Python**  
   Learn how to store and organize information with tools like lists and dictionaries.  
 
-📊 Create plots from NumPy arrays 
+- 📊 **Create plots from NumPy arrays**  
   Turn numbers into simple graphs and charts to help you see patterns in data.  
