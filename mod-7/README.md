@@ -1,4 +1,4 @@
-# 📘 Week 7 – Learning Objectives & To-Do List
+# 📘 module 7 – Learning Objectives & To-Do List
 
 ---
 
@@ -15,5 +15,5 @@ Assignments/Tasks to be completed:
 - 📖 Complete reading the **Week 7 slides**.  
 - 📄 Read the survey article: *“Data visualization in healthcare and medicine: a survey”*.  
 - 📄 Read the Demigos article: *“Healthcare Data Visualization: examples and key benefits”*.  
-- 👥 Continue working with your team members on **HW3**.  
+ 
 
