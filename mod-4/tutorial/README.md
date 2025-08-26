@@ -1,4 +1,4 @@
-# 📘 CSE 551 – Week 3: Data Visualization with Matplotlib & NumPy
+# 📘 module 3: Data Visualization with Matplotlib & NumPy
 
 This lecture introduces how to use **Matplotlib** and **NumPy** to analyze data, with a focus on wine quality datasets.  
 
