@@ -1,8 +1,23 @@
+## 🚀 Start Here (Recommended Order)
+
+1. ▶️ **Watch the tutorial video + use the tutorial slide deck**  
+   👉 Go to: **[`tutorial/`](./tutorial/)**
+
+2. 🧑‍💻 **Try the hands-on notebook** (practice + mini tasks)  
+   👉 Go to: **[`hands-on/`](./hands-on/)**
+
+3. 📚 **Explore optional readings** (if you want to go deeper)  
+   👉 Go to: **[`further-reading/`](./further-reading/)**
+
+---
+
 🌟 **This week, you will be able to:**
 
-- 📂 **Explore and use data structures in Python**  
-  Learn how to organize and work with information using lists, dictionaries, and other cool tools in Python.  
+- 👀 **Understand why data visualization matters**  
+  Learn how charts help people spot patterns, trends, and outliers faster than tables of numbers.
 
-- 📊 **Make your own plots with NumPy**  
-  Discover how to turn numbers into pictures (graphs and charts) by using NumPy arrays.  
+- 🧠 **Recognize how humans interpret visuals**  
+  See how perception limits (like attention and comparison) affect what makes a chart clear or confusing.
 
+- ✅ **Apply best practices to create better charts**  
+  Avoid common mistakes like misleading axes, 3D charts, and clutter — and learn what to do instead.
