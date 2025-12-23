@@ -1,24 +1,33 @@
-# 📊 Module 1 – Introduction to Data Visualization
+# ▶️ Module 1 – Introduction to Data Visualization (Tutorial)
 
-This module introduces the **foundations of data visualization** — why visuals matter, how humans process them, and best practices for creating clear charts.  
+This page contains the **video tutorial** for Module 1, which walks through the key ideas behind data visualization — why visuals matter, how humans interpret them, and common pitfalls to avoid.
 
----
-
-## 🎯 Learning Objectives
-By the end of this module, you will be able to:
-- Explain why **computers, people, and visuals** are all important in data analysis.  
-- Understand the **advantages and pitfalls** of data visualization.  
-- Apply **best practices** to avoid misleading or ineffective visuals:contentReference[oaicite:0]{index=0}.  
+A **tutorial slide deck** used in the video is also available in this folder.
 
 ---
 
-## 📚 Topics Covered
-- Why visualize data? (storytelling with a purpose)  
-- Human limitations in visual perception  
-- Advantages & disadvantages of data visualization  
-- Common mistakes (3D charts, misleading graphs, over-graphing):contentReference[oaicite:1]{index=1}  
+## 📺 Tutorial Video
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/ciCGAGFxqrU"
+title="Module 1 Tutorial – Introduction to Data Visualization"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
 
 ---
 
-## ▶️ How to Use
-Read through the slides, reflect on examples, and note the **do’s and don’ts** of visualization.  
+## 🎯 What to focus on while watching
+- Why data visualization is essential for understanding data  
+- How human perception shapes what works (and what doesn’t)  
+- Common visualization mistakes such as 3D charts and misleading scales  
+- Best practices for creating clear, effective visuals  
+
+---
+
+## ▶️ How to Use This Tutorial
+1. Watch the video above  
+2. Review the **tutorial slide deck** in this folder alongside the video  
+3. Return to the **Module 1 README** to review learning objectives  
+4. Reflect on the examples and identify at least one visualization practice you want to apply in future modules  
