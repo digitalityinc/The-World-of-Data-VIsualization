@@ -8,7 +8,7 @@ You don’t need to read everything. Pick **one** resource to start (time zones 
 ## ⏰ Time Zones in Python (Recommended)
 Time zones are one of the easiest ways to accidentally break a time series analysis. This resource helps you avoid common mistakes.
 
-- [Handling time zones in Python – GeeksforGeeks](https://www.geeksforgeeks.org/handling-timezones-in-python/)  
+- [Handling time zones in Python – GeeksforGeeks](https://www.geeksforgeeks.org/python/handling-timezone-in-python/)  
   Learn how to work with time zone–aware and naïve `datetime` objects, convert between zones, and manage reliable time data.
 
 ---
