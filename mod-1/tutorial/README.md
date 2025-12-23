@@ -8,8 +8,6 @@ A **tutorial slide deck** used in the video is also available in this folder.
 
 ## 📺 Tutorial Video
 
-## 📺 Tutorial Video
-
 [![Watch the tutorial video](https://img.youtube.com/vi/ciCGAGFxqrU/hqdefault.jpg)](https://www.youtube.com/watch?v=ciCGAGFxqrU)
 
 ---
