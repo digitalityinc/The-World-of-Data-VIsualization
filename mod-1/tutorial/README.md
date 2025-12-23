@@ -8,13 +8,9 @@ A **tutorial slide deck** used in the video is also available in this folder.
 
 ## 📺 Tutorial Video
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/ciCGAGFxqrU"
-title="Module 1 Tutorial – Introduction to Data Visualization"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen>
-</iframe>
+## 📺 Tutorial Video
+
+[![Watch the tutorial video](https://img.youtube.com/vi/ciCGAGFxqrU/hqdefault.jpg)](https://www.youtube.com/watch?v=ciCGAGFxqrU)
 
 ---
 
